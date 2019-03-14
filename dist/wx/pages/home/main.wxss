@@ -1,0 +1,11 @@
+
+.test.data-v-5db9529e {
+  color: red;
+  font-size: 76rpx;
+}
+.main ._p.data-v-5db9529e {
+  color: #06a0ff;
+}
+.card {
+  padding: 20rpx;
+}

@@ -1,0 +1,6 @@
+<import src="/components/card.vue.wxml" /><template name="1f20da1e">
+  <view class="_div data-v-5db9529e main">
+    <view class="_div data-v-5db9529e">wwwwwwww</view>
+    <view bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_p data-v-5db9529e">index</view> <template data="{{...$root[$kk+'0'], $root}}" is="42610a16"></template>
+  </view>
+</template>
