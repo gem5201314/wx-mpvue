@@ -27,7 +27,7 @@ export default class Http {
           reject(err)
         },
         complete (info) {
-          // 关闭网络请求提示
+          // 关闭网络请求  提示
         }
       })
     })
